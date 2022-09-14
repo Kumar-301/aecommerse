@@ -1,0 +1,81 @@
+{
+  "main": [
+    {
+      "imgUrl": "https://img3.exportersindia.com/product_images/bc-full/2019/7/6447138/mens-shirts-1563255452-4999364.jpeg",
+      "title": "Full Sleeve",
+      "price": 20.1,
+      "category":"Mens Clothes",
+      "id": 1
+    },
+    {
+      "imgUrl": "https://images.meesho.com/images/products/41237705/rtawp_512.jpg",
+      "title": "Half Sleeve",
+      "price": 10.9,
+      "category":"Mens Clothes",
+      "id": 2
+    },
+    {
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4nFcbe0nYb2tkMxmUxita7pc5Dn7BHUDBYQ&usqp=CAU",
+      "title": "Formal Shirt",
+      "price": 17.6,
+      "category":"Mens Clothes",
+      "id": 3
+    },
+    {
+      "imgUrl": "https://5.imimg.com/data5/AT/OH/UC/ANDROID-61447803/product-jpeg-500x500.jpg",
+      "title": "Fastrack",
+      "price": 22.4,
+      "category":"Watches",
+      "id": 4
+    },
+    {
+      "imgUrl": "https://static.langimg.com/thumb/msid-89475214,imgsize-35436,width-700,height-525,resizemode-75/navbharat-times.jpg",
+      "title": "Titan",
+      "price": 12.6,
+      "category":"Watches",
+      "id": 5
+    },
+    {
+      "imgUrl": "https://img.joomcdn.net/109c07fba944981df709460084f55eef40c248bb_original.jpeg",
+      "title": "Binbond",
+      "price": 27.6,
+      "category":"Watches",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "username": "kumar",
+      "mail": "kumar51@gmail.com",
+      "password": "Kum@r301",
+      "confirmPwd": "Kum@r301",
+      "userErr": "Enter only Alphabets & Spaces not allowed",
+      "mailErr": "Required",
+      "pwdError": "",
+      "confirmPwdErr": "Required",
+      "id": 1
+    },
+    {
+      "username": "sai",
+      "mail": "sai121@gmail.com",
+      "password": "S@i121",
+      "confirmPwd": "S@i121",
+      "userErr": "",
+      "mailErr": "",
+      "pwdError": "",
+      "confirmPwdErr": "",
+      "id": 2
+    },
+    {
+      "username": "kumar",
+      "mail": "kumar51@gmail.com",
+      "password": "Kum@r301",
+      "confirmPwd": "Kum@r301",
+      "userErr": "Enter only Alphabets & Spaces not allowed",
+      "mailErr": "Required",
+      "pwdError": "",
+      "confirmPwdErr": "Required",
+      "id": 3
+    }
+  ]
+}
